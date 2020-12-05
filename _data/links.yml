@@ -1,5 +1,5 @@
-- name: 码志
-  url: http://mazhuang.org
+- name: 阿才博客
+  url: https://abelweiwencai.github.io
   src: life
 
 - name: Connie 酱
@@ -42,8 +42,8 @@
   url: https://candy961.github.io/
   src: life
 
-- name: 水寒的博客
-  url: https://dp2px.com
+- name: 码志
+  url: https://mazhuang.org/
   src: www
 
 - name: 孙不服的博客
