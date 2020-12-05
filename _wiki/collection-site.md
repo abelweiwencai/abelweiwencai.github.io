@@ -1,7 +1,7 @@
 ---
 layout: wiki
 title: 收藏的网站文章
-categories: interesting
+categories: [interesting, Vim]
 description: 平常收集的一些有趣有用的文章工具
 keywords: interesting funny money
 ---

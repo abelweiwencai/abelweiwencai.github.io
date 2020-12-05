@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://abelweiwencai.github.io/
+url: https://abelweiwencai.github.io
 date_format: "ordinal"
 title: 阿才
 subtitle: "python vue react"
@@ -24,7 +24,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: true
-        start_date: 2020-05-03
+        start_date: 2020-12-05
 # 压缩页面内容
 compress_html:
   clippings: all
@@ -67,7 +67,7 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: wiki
 
   -
     href: /links/
